@@ -31,7 +31,7 @@ header > h1 {
 nav > a {
     text-decoration: none;
     color: white;
-    margin: 10px;
+    margin: 2px;
     font-weight: bold;
     border-radius: 5px;
     padding: 5px;
@@ -127,8 +127,8 @@ footer {
     font-weight: bold;
     background-color: #1e551e;
     color: white;
-    padding: 5px;
-    margin-top: 20px;
+    padding: 10px;
+    margin-top: 50px;
 }
 
 main img {
